@@ -11,6 +11,7 @@
        
 3. 选择staff数据库，可对staff_table表进行数据查询，全表查询或者条件查询，语句用法如下（查询语句不区分大小写）
 
+       use staff
        select * from staff_table;
        select name,age,phone from staff_table where dept = 'IT';
        SELECT name,age FROM staff_table WHERE age > 22;
