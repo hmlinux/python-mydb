@@ -1,0 +1,5 @@
+{
+    "staff":{
+        "staff_table": [["staff_id", "name", "age", "phone", "dept", "enroll_date"], {"primary_key": "phone"}]
+    }
+}
